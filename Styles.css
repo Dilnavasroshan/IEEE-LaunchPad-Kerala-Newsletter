@@ -10,7 +10,7 @@ body {
 	max-width: 800px;
 	margin: 20px auto;
 	padding: 20px;
-	background-color: #31363F; /* White container background */
+	background-color: ##163c80; /* White container background */
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -19,14 +19,14 @@ body {
 }
 
 h1 {
-	color: #FB6D48; /* Orange header color */
+	color: #d8095; /* Orange header color */
 	font-size: 32px;
 	margin-bottom: 10px;
 	text-align: center;
 }
 
 h2 {
-	color: #FFAF45; /* Purple header color */
+	color: #edff00; /* Purple header color */
 	font-size: 24px;
 	margin-bottom: 10px;
 }
@@ -42,14 +42,14 @@ h3 {
 .updates p,
 .Event p {
 	line-height: 1.5;
-	color: #E2DFD0; /* Dark gray text color */
+	color: #000000; /* Dark gray text color */
 	text-align: justify; /* Justify paragraph text */
 }
 
 button.button1,
 button.button2 {
-	background-color: #ffa500; /* Orange button background */
-	color: #fff; /* White button text color */
+	background-color: #e91e63; /* Orange button background */
+	color: #01f22c; /* White button text color */
 	border: none;
 	padding: 10px 20px;
 	font-size: 16px;
