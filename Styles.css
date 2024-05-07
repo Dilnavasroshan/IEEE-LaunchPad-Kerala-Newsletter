@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	padding: 0;
 	background-color: #0C0C0C; /* Light gray background */
-	color: #fff /* Default text color */
+	color: #2196f3 /* Default text color */
 }
 
 .container {
@@ -42,7 +42,7 @@ h3 {
 .updates p,
 .Event p {
 	line-height: 1.5;
-	color: #000000; /* Dark gray text color */
+	color: #2196f3; /* Dark gray text color */
 	text-align: justify; /* Justify paragraph text */
 }
 
